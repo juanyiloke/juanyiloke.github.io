@@ -1,35 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The J Is Not Silent</title>
+    <title>Hello! I&#39;m Juan Yi. | the J is not silent</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on The J Is Not Silent</description>
+    <description>Recent content on Hello! I&#39;m Juan Yi. | the J is not silent</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Aug 2017 15:43:48 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
+      <title>about</title>
       <link>http://localhost:1313/about/</link>
-      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
-    </item>
-    
-    <item>
-      <title>[English] Creating a New Theme</title>
-      <link>http://localhost:1313/post/english-preview/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/english-preview/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <description>About Me Hello! I&amp;rsquo;m Juan Yi, it&amp;rsquo;s pronounced Jew-Aren&amp;rsquo;t-E. People usually just call me Johnny. I&amp;rsquo;m a computer science and maths student at the University of Toronto. I&amp;rsquo;m actively dabbling in research and am hoping to explore the ever-hyped yet ever-interesting field of machine learning in the future. I&amp;rsquo;m using this website/blog to publish my thoughts on stuff I find interesting and anything that I think could be valuable for</description>
     </item>
     
   </channel>
